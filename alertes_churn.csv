@@ -1,0 +1,494 @@
+client_id,nom,email,score_risque,sujet,corps,date_alerte
+CLI0004,Michelle Jean,margot30@example.org,0.93, ALERTE : Michelle Jean présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Michelle Jean
+    Email : margot30@example.org
+    Plan : Basic
+    Score de risque : 0.93/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0005,Cécile Guillon,raynaudemmanuel@example.org,0.92, ALERTE : Cécile Guillon présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Cécile Guillon
+    Email : raynaudemmanuel@example.org
+    Plan : Pro
+    Score de risque : 0.92/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0014,Nicole du Torres,qpinto@example.org,0.85, ALERTE : Nicole du Torres présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Nicole du Torres
+    Email : qpinto@example.org
+    Plan : Premium
+    Score de risque : 0.85/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0018,Inès Devaux,maryselejeune@example.com,0.75, ALERTE : Inès Devaux présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Inès Devaux
+    Email : maryselejeune@example.com
+    Plan : Premium
+    Score de risque : 0.75/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0027,Léon Lenoir,vthibault@example.org,0.72, ALERTE : Léon Lenoir présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Léon Lenoir
+    Email : vthibault@example.org
+    Plan : Premium
+    Score de risque : 0.72/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0031,Céline Boulanger,victoire53@example.org,0.91, ALERTE : Céline Boulanger présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Céline Boulanger
+    Email : victoire53@example.org
+    Plan : Pro
+    Score de risque : 0.91/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0032,Matthieu Roux,rleblanc@example.net,0.96, ALERTE : Matthieu Roux présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Matthieu Roux
+    Email : rleblanc@example.net
+    Plan : Basic
+    Score de risque : 0.96/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0036,Margot Le Verdier,courtoislucy@example.net,0.94, ALERTE : Margot Le Verdier présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Margot Le Verdier
+    Email : courtoislucy@example.net
+    Plan : Premium
+    Score de risque : 0.94/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0037,Lucy Gay,michelefernandez@example.net,0.73, ALERTE : Lucy Gay présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Lucy Gay
+    Email : michelefernandez@example.net
+    Plan : Basic
+    Score de risque : 0.73/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0042,Michelle Leblanc,olivier13@example.org,0.78, ALERTE : Michelle Leblanc présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Michelle Leblanc
+    Email : olivier13@example.org
+    Plan : Basic
+    Score de risque : 0.78/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0054,Étienne Garcia Le François,fbrunet@example.com,0.79, ALERTE : Étienne Garcia Le François présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Étienne Garcia Le François
+    Email : fbrunet@example.com
+    Plan : Pro
+    Score de risque : 0.79/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0056,Clémence Morvan,kteixeira@example.org,0.81, ALERTE : Clémence Morvan présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Clémence Morvan
+    Email : kteixeira@example.org
+    Plan : Basic
+    Score de risque : 0.81/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0057,Margaret Delaunay,nath74@example.net,0.97, ALERTE : Margaret Delaunay présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Margaret Delaunay
+    Email : nath74@example.net
+    Plan : Pro
+    Score de risque : 0.97/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0059,Astrid Robert,valentine78@example.org,0.92, ALERTE : Astrid Robert présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Astrid Robert
+    Email : valentine78@example.org
+    Plan : Pro
+    Score de risque : 0.92/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0063,Jules Antoine Le Bouvier,chantal14@example.com,0.73, ALERTE : Jules Antoine Le Bouvier présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Jules Antoine Le Bouvier
+    Email : chantal14@example.com
+    Plan : Premium
+    Score de risque : 0.73/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0069,Adélaïde Mahe,maurice05@example.org,0.88, ALERTE : Adélaïde Mahe présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Adélaïde Mahe
+    Email : maurice05@example.org
+    Plan : Pro
+    Score de risque : 0.88/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0070,Étienne Renard,fbrun@example.org,0.79, ALERTE : Étienne Renard présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Étienne Renard
+    Email : fbrun@example.org
+    Plan : Premium
+    Score de risque : 0.79/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0073,Aurélie Gimenez,eugenebreton@example.org,0.87, ALERTE : Aurélie Gimenez présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Aurélie Gimenez
+    Email : eugenebreton@example.org
+    Plan : Pro
+    Score de risque : 0.87/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0087,Colette Le Guilbert,hpages@example.com,0.85, ALERTE : Colette Le Guilbert présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Colette Le Guilbert
+    Email : hpages@example.com
+    Plan : Basic
+    Score de risque : 0.85/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0092,Stéphane Leroy,michelle19@example.com,0.91, ALERTE : Stéphane Leroy présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Stéphane Leroy
+    Email : michelle19@example.com
+    Plan : Premium
+    Score de risque : 0.91/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0093,Hélène Martin,roland83@example.net,0.83, ALERTE : Hélène Martin présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Hélène Martin
+    Email : roland83@example.net
+    Plan : Premium
+    Score de risque : 0.83/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0097,Robert-Thierry Poirier,augustinroux@example.net,0.85, ALERTE : Robert-Thierry Poirier présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Robert-Thierry Poirier
+    Email : augustinroux@example.net
+    Plan : Basic
+    Score de risque : 0.85/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0100,Jérôme Boulay,tdelahaye@example.com,0.7, ALERTE : Jérôme Boulay présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Jérôme Boulay
+    Email : tdelahaye@example.com
+    Plan : Premium
+    Score de risque : 0.7/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0102,Guy-Théophile Rocher,cousincelina@example.net,0.86, ALERTE : Guy-Théophile Rocher présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Guy-Théophile Rocher
+    Email : cousincelina@example.net
+    Plan : Basic
+    Score de risque : 0.86/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0123,Sébastien Legendre,qteixeira@example.net,0.98, ALERTE : Sébastien Legendre présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Sébastien Legendre
+    Email : qteixeira@example.net
+    Plan : Premium
+    Score de risque : 0.98/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0134,Nicolas Pires,isaac03@example.net,0.95, ALERTE : Nicolas Pires présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Nicolas Pires
+    Email : isaac03@example.net
+    Plan : Premium
+    Score de risque : 0.95/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0138,Thomas Chauvin,elisabeth15@example.org,0.8, ALERTE : Thomas Chauvin présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Thomas Chauvin
+    Email : elisabeth15@example.org
+    Plan : Pro
+    Score de risque : 0.8/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0140,Diane Marion,sophie97@example.org,0.75, ALERTE : Diane Marion présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Diane Marion
+    Email : sophie97@example.org
+    Plan : Pro
+    Score de risque : 0.75/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35
+CLI0148,Émile Duval,hroche@example.net,0.72, ALERTE : Émile Duval présente un risque de churn élevé,"
+    ALERTE ÉQUIPE MARKETING
+    
+    Client à risque détecté :
+    
+    Nom : Émile Duval
+    Email : hroche@example.net
+    Plan : Pro
+    Score de risque : 0.72/1.0
+    
+    Actions recommandées :
+    - Contacter le client sous 48h
+    - Proposer une offre personnalisée
+    - Demander un feedback
+    
+    Ce message est généré automatiquement par le système.
+    ",2026-01-14 16:35

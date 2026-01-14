@@ -1,0 +1,151 @@
+id,nom,email,telephone,plan,prix_mensuel,date_debut,date_fin,statut,ville,score_risque
+CLI0001,Stéphane Dupont,garnierraymond@example.net,04 13 11 93 94,Pro,199,2025-06-17,,actif,Fernandeznec,0.68
+CLI0002,Benjamin Raynaud,khumbert@example.net,+33 (0)4 63 52 16 24,Premium,299,2024-04-22,,actif,Ramos-sur-Marques,0.32
+CLI0003,Josette Allain,moniquemaury@example.org,02 51 05 26 54,Premium,299,2024-11-11,,actif,ReyVille,0.22
+CLI0004,Michelle Jean,margot30@example.org,+33 2 18 48 56 74,Basic,99,2025-10-02,,actif,Sainte Laetitia,0.93
+CLI0005,Cécile Guillon,raynaudemmanuel@example.org,+33 (0)5 36 77 60 40,Pro,199,2025-09-29,,actif,Salmon-sur-Mer,0.92
+CLI0006,Marianne Le Blin,lefebvremaggie@example.org,+33 4 98 57 55 53,Pro,199,2024-05-11,,actif,Marin-les-Bains,0.15
+CLI0007,Danielle Colin,xrobin@example.com,+33 (0)3 72 92 85 07,Basic,99,2024-10-12,,actif,Martel-sur-Mer,0.12
+CLI0008,Raymond Aubert,kblin@example.net,0469165571,Premium,299,2024-08-12,,actif,Saint Olivie,0.66
+CLI0009,Sébastien Bernier,duboisdenise@example.com,+33 (0)2 23 09 81 09,Basic,99,2025-11-08,,actif,Legrand,0.17
+CLI0010,Thierry Gaudin,jules75@example.net,+33 3 87 39 33 17,Pro,199,2024-07-23,,actif,Sainte Victorboeuf,0.2
+CLI0011,Rémy-Auguste Lévêque,hrodrigues@example.net,+33 5 34 90 62 69,Pro,199,2024-05-03,,actif,Dupuy,0.18
+CLI0012,Valentine Samson,thibaultandre@example.com,+33 (0)4 89 78 01 55,Pro,199,2025-08-30,,actif,Munoz-la-Forêt,0.28
+CLI0013,Patrick-Théophile Leblanc,isabelle82@example.com,02 62 91 42 81,Basic,99,2024-02-13,,actif,Berthelot,0.16
+CLI0014,Nicole du Torres,qpinto@example.org,05 82 27 79 01,Premium,299,2024-07-11,,actif,Saint RolandBourg,0.85
+CLI0015,Roger Muller,guy94@example.com,+33 (0)2 62 85 07 23,Premium,299,2024-10-10,2024-11-11,annulé,Boyer,0.99
+CLI0016,Jules Merle,matthieugros@example.net,04 42 20 19 46,Basic,99,2024-01-30,,actif,Bourdon-sur-Mer,0.52
+CLI0017,Gérard Bertin,maurice49@example.org,+33 (0)3 21 89 40 89,Pro,199,2025-10-25,,actif,Jean-sur-Mahe,0.09
+CLI0018,Inès Devaux,maryselejeune@example.com,02 29 51 34 88,Premium,299,2024-09-29,,actif,Saint Margaux,0.75
+CLI0019,Daniel Fournier-Tessier,francoiseriou@example.org,+33 2 36 34 09 69,Premium,299,2025-11-23,,actif,Traore,0.6
+CLI0020,Luc Le Martinez,cecile00@example.com,03 59 05 27 84,Basic,99,2025-09-27,,actif,ArnaudBourg,0.36
+CLI0021,Corinne Meunier-Guillon,virginie41@example.com,04 50 54 91 91,Basic,99,2024-06-23,,actif,Besnard-sur-Marchand,0.12
+CLI0022,Aurélie Maillet,colasgeorges@example.net,+33 1 88 41 98 17,Basic,99,2025-04-13,,actif,Saint SabineVille,0.15
+CLI0023,Éléonore Boucher du Payet,bdubois@example.org,+33 (0)4 90 78 43 73,Premium,299,2025-02-21,,actif,Jacquotboeuf,0.35
+CLI0024,Noël Coste,robertwagner@example.org,+33 3 26 76 51 28,Premium,299,2025-02-22,,actif,Moreldan,0.05
+CLI0025,Henri Le Maury,eric68@example.org,+33 6 87 11 09 47,Basic,99,2024-10-07,,actif,Saint Anastasie,0.35
+CLI0026,Denis-Joseph Joubert,le-rouxjeannine@example.org,01 82 80 13 90,Basic,99,2025-04-23,2025-06-12,expiré,Saint Pierre-les-Bains,0.64
+CLI0027,Léon Lenoir,vthibault@example.org,+33 (0)2 48 25 61 01,Premium,299,2024-09-13,,actif,Berthelot-sur-Rousseau,0.72
+CLI0028,Brigitte-Emmanuelle Salmon,beckerstephane@example.org,05 24 33 47 28,Basic,99,2025-05-09,2025-08-20,annulé,Seguindan,0.91
+CLI0029,Patricia Clément,glefebvre@example.org,+33 (0)2 36 30 28 48,Premium,299,2024-11-05,2025-02-02,annulé,Saint Nath-sur-Mer,0.99
+CLI0030,Margaret Letellier,cousinelodie@example.org,02 52 76 41 21,Premium,299,2024-02-12,,actif,Lamy,0.16
+CLI0031,Céline Boulanger,victoire53@example.org,+33 3 53 58 38 02,Pro,199,2024-12-30,,actif,Sainte Élise,0.91
+CLI0032,Matthieu Roux,rleblanc@example.net,05 61 74 95 86,Basic,99,2024-10-16,,actif,Chauveau-sur-Rodriguez,0.96
+CLI0033,Vincent-Jérôme Barbe,glacroix@example.com,+33 (0)4 80 22 62 04,Pro,199,2025-11-06,2026-09-02,annulé,Simon,0.5
+CLI0034,Noémi Gaillard,arthurtexier@example.com,0256486707,Premium,299,2024-07-06,2025-03-29,expiré,LeducVille,0.59
+CLI0035,Susan Torres de la Barbier,qcharrier@example.net,02 55 40 96 66,Pro,199,2024-05-16,2024-10-12,annulé,Huetdan,1.0
+CLI0036,Margot Le Verdier,courtoislucy@example.net,+33 2 37 46 59 04,Premium,299,2024-09-11,,actif,Langloisnec,0.94
+CLI0037,Lucy Gay,michelefernandez@example.net,+33 1 83 67 94 90,Basic,99,2025-03-15,,actif,Sainte Élodie,0.73
+CLI0038,Jacqueline Delannoy,claireguichard@example.org,+33 (0)6 68 60 91 58,Pro,199,2025-01-09,,actif,Saint Patricia,0.52
+CLI0039,Gabrielle Bonnet,julieguichard@example.org,0376460250,Basic,99,2025-06-17,2026-04-06,annulé,Sainte Lucynec,0.72
+CLI0040,Alix Humbert,cferreira@example.org,0384183990,Pro,199,2025-07-11,2026-07-07,expiré,Sainte Anastasie-sur-Mer,0.77
+CLI0041,Victor Vallet,suzannetexier@example.org,+33 3 62 89 31 83,Premium,299,2024-12-01,,actif,Colin-sur-Mer,0.52
+CLI0042,Michelle Leblanc,olivier13@example.org,+33 1 73 05 45 02,Basic,99,2024-09-18,,actif,Sainte Françoisnec,0.78
+CLI0043,Thibaut Hamel,ihardy@example.org,0468771054,Basic,99,2024-01-27,,actif,Wagner,0.26
+CLI0044,Virginie-Océane Blin,valeriedelahaye@example.com,04 85 16 72 56,Pro,199,2025-02-09,2025-09-29,expiré,Saint Alain,0.25
+CLI0045,Thibaut Moreau,stephane21@example.com,0423941012,Premium,299,2024-06-02,,actif,Fernandesnec,0.11
+CLI0046,Zoé Hoareau,fbouchet@example.org,+33 5 49 85 76 96,Basic,99,2024-10-29,2025-10-13,expiré,Dubois-sur-Mer,0.25
+CLI0047,Georges Peltier,bertinmatthieu@example.net,+33 (0)2 98 44 72 01,Pro,199,2025-08-17,2026-01-23,expiré,Cohen,0.27
+CLI0048,Eugène Jacob,gillesjean@example.org,+33 2 48 49 00 70,Premium,299,2025-07-31,,actif,Sainte MargauxBourg,0.57
+CLI0049,Thibault Courtois,jchevallier@example.org,03 81 23 85 80,Premium,299,2024-04-10,2024-07-22,expiré,Roche,0.3
+CLI0050,Léon Dubois,valleehenriette@example.org,01 82 09 16 35,Basic,99,2024-03-11,2024-05-09,annulé,Morelnec,0.26
+CLI0051,Aurélie-Colette Guibert,laurenceperez@example.com,+33 (0)4 85 82 39 34,Pro,199,2024-01-28,,actif,Lefebvre,0.26
+CLI0052,Olivier Antoine-Chrétien,josephine65@example.org,02 14 49 63 82,Basic,99,2025-01-17,,actif,Saint Timothée-sur-Mer,0.07
+CLI0053,Louise Perret,gomezfrederique@example.com,+33 1 82 09 21 90,Pro,199,2024-02-21,2024-11-30,annulé,Masse,0.01
+CLI0054,Étienne Garcia Le François,fbrunet@example.com,+33 4 86 34 67 34,Pro,199,2024-05-12,,actif,Sainte Laurenec,0.79
+CLI0055,Franck Meyer,jacquotlucas@example.org,+33 (0)2 61 16 31 38,Premium,299,2025-01-01,,actif,Dubois-les-Bains,0.18
+CLI0056,Clémence Morvan,kteixeira@example.org,+33 (0)5 24 67 27 34,Basic,99,2024-04-29,,actif,Noël-sur-Breton,0.81
+CLI0057,Margaret Delaunay,nath74@example.net,+33 4 42 36 95 45,Pro,199,2024-02-07,,actif,Saint Julien-les-Bains,0.97
+CLI0058,Aimée-Capucine Schmitt,fclement@example.org,+33 3 71 80 89 34,Basic,99,2024-10-15,,actif,GilletBourg,0.52
+CLI0059,Astrid Robert,valentine78@example.org,+33 2 56 83 65 87,Pro,199,2025-06-10,,actif,Philippe,0.92
+CLI0060,Stéphane Besnard de la Lacroix,pelletierjean@example.org,+33 (0)2 23 51 33 61,Basic,99,2024-11-05,2024-12-09,annulé,BonnetBourg,0.68
+CLI0061,Zoé Weiss du Gros,maryse66@example.com,+33 (0)1 47 93 84 57,Pro,199,2025-06-08,2025-12-13,expiré,Saint EmmanuelleVille,0.18
+CLI0062,Olivier Allain,jtraore@example.net,04 79 01 64 99,Pro,199,2024-12-02,2025-03-30,annulé,Le Goff,0.86
+CLI0063,Jules Antoine Le Bouvier,chantal14@example.com,05 55 52 66 47,Premium,299,2024-08-25,,actif,Sainte MauriceVille,0.73
+CLI0064,Jacques Brunet,olivier06@example.net,+33 2 22 63 98 46,Pro,199,2024-10-18,,actif,Saint Paulette,0.42
+CLI0065,Augustin Pineau,gerardbecker@example.org,0355126362,Premium,299,2024-10-08,,actif,Baron,0.54
+CLI0066,Jérôme Clerc Le Collin,oliviecarpentier@example.com,+33 1 82 46 45 56,Basic,99,2025-01-11,,actif,Royer-sur-Mer,0.54
+CLI0067,Diane du Marin,mgarcia@example.com,0456754490,Basic,99,2024-02-04,,actif,GomesBourg,0.39
+CLI0068,Noël Dumas,iberger@example.net,0524705289,Basic,99,2025-05-12,2025-12-20,expiré,Durandnec,0.98
+CLI0069,Adélaïde Mahe,maurice05@example.org,+33 1 69 98 87 52,Pro,199,2024-04-10,,actif,Costa,0.88
+CLI0070,Étienne Renard,fbrun@example.org,05 62 30 65 14,Premium,299,2024-05-07,,actif,Gautier-la-Forêt,0.79
+CLI0071,Danielle Parent,vidalhenri@example.com,+33 (0)4 82 62 44 53,Premium,299,2025-01-20,,actif,Durand,0.46
+CLI0072,Valérie Voisin-Boulanger,constance81@example.com,03 84 97 04 69,Pro,199,2024-11-09,,actif,Michel,0.24
+CLI0073,Aurélie Gimenez,eugenebreton@example.org,+33 3 76 79 82 24,Pro,199,2024-03-03,,actif,Boulanger,0.87
+CLI0074,Bertrand-Sébastien Meunier,mklein@example.net,04 89 84 57 97,Basic,99,2024-08-19,,actif,Saint Colette-les-Bains,0.24
+CLI0075,Amélie-Inès Vasseur,letelliermatthieu@example.org,+33 2 90 14 52 28,Basic,99,2024-05-27,2024-12-29,annulé,Sainte Raymond,0.61
+CLI0076,Marcel Martinez-Mace,nrousset@example.net,+33 3 76 58 11 50,Basic,99,2025-01-30,,actif,Saint Alexandredan,0.22
+CLI0077,Sylvie-Jeanne Lucas,alphonseaubry@example.net,0231017871,Premium,299,2025-02-25,2025-08-15,expiré,Saint Roland,0.38
+CLI0078,Alexandre-Émile Giraud,alphonsebriand@example.net,02 36 20 89 29,Premium,299,2024-05-11,,actif,Vaillantnec,0.69
+CLI0079,Roger Richard de la Marie,qbrunel@example.com,0229874494,Pro,199,2024-10-05,2025-08-30,annulé,Lamydan,0.57
+CLI0080,Pénélope Boutin,madeleinelevy@example.net,+33 6 55 81 61 70,Premium,299,2025-10-02,,actif,Lejeune-sur-Auger,0.28
+CLI0081,Marie Gérard,hremy@example.net,+33 2 61 39 73 12,Pro,199,2025-08-21,2026-01-28,expiré,Briandboeuf,0.99
+CLI0082,Geneviève Renard-Aubry,inesdumont@example.com,+33 (0)4 26 39 52 30,Pro,199,2025-07-11,2025-08-10,annulé,Bailly,0.72
+CLI0083,Pierre Torres,jbailly@example.org,+33 6 31 56 48 22,Premium,299,2024-07-10,2025-01-25,expiré,Gros,0.79
+CLI0084,Alexandria Pichon du Garnier,stephanie99@example.net,+33 4 22 64 35 61,Premium,299,2024-08-14,,actif,Sainte Noël,0.2
+CLI0085,Marcel-Grégoire Lacombe,rolandtessier@example.org,+33 (0)2 29 43 18 77,Pro,199,2024-03-14,,actif,Laine-la-Forêt,0.13
+CLI0086,Zacharie Lévy,frederiquelucas@example.org,+33 3 28 47 73 65,Premium,299,2024-01-19,,actif,Saint Élise,0.45
+CLI0087,Colette Le Guilbert,hpages@example.com,+33 4 38 94 38 62,Basic,99,2025-07-12,,actif,HoarauBourg,0.85
+CLI0088,David Pinto,inesfournier@example.org,0353080074,Premium,299,2024-03-11,,actif,Gillet-sur-Gilbert,0.53
+CLI0089,Élise Lacroix,guichardwilliam@example.com,+33 (0)3 79 52 83 85,Basic,99,2025-04-27,,actif,Leclercqnec,0.49
+CLI0090,Aurélie Blanchard-Chartier,barrepauline@example.com,+33 1 60 72 44 26,Basic,99,2024-05-04,2024-06-12,annulé,Guillou,0.91
+CLI0091,Margot Clerc du Boulay,hferreira@example.org,+33 (0)4 82 96 13 80,Basic,99,2025-09-14,2025-11-01,expiré,Delannoy,0.22
+CLI0092,Stéphane Leroy,michelle19@example.com,+33 1 79 34 66 07,Premium,299,2024-09-27,,actif,Gomezboeuf,0.91
+CLI0093,Hélène Martin,roland83@example.net,0223971932,Premium,299,2024-06-06,,actif,Payet,0.83
+CLI0094,Bernard Michel,suzanne95@example.net,+33 2 34 32 80 77,Pro,199,2024-08-28,,actif,Besnardnec,0.57
+CLI0095,Guy-Léon Normand,frederic52@example.org,+33 (0)4 23 72 95 62,Premium,299,2025-07-14,2026-04-21,annulé,Lesage,0.7
+CLI0096,Jeannine Rocher,sabinefontaine@example.org,+33 (0)4 73 76 64 05,Basic,99,2025-01-19,,actif,Pascal,0.61
+CLI0097,Robert-Thierry Poirier,augustinroux@example.net,0164751361,Basic,99,2025-07-05,,actif,Saint Claudine-les-Bains,0.85
+CLI0098,Thibaut du Chevallier,ublondel@example.net,+33 1 88 24 78 64,Basic,99,2024-03-18,,actif,Duval,0.08
+CLI0099,Grégoire Laporte,maurice58@example.com,+33 (0)2 22 20 51 83,Basic,99,2024-12-11,,actif,Saint Auguste-les-Bains,0.12
+CLI0100,Jérôme Boulay,tdelahaye@example.com,+33 5 34 58 78 56,Premium,299,2024-05-07,,actif,Thierry-la-Forêt,0.7
+CLI0101,Louis Le Gall,constance81@example.org,03 65 83 42 06,Basic,99,2025-07-30,,actif,Schmittboeuf,0.47
+CLI0102,Guy-Théophile Rocher,cousincelina@example.net,+33 7 51 94 52 56,Basic,99,2025-09-15,,actif,Bigot,0.86
+CLI0103,Augustin Bonneau,isaac16@example.org,0480913095,Basic,99,2024-02-12,2024-11-16,annulé,Costa-sur-Millet,0.13
+CLI0104,Nath Pascal,spottier@example.com,+33 (0)2 62 78 93 31,Basic,99,2025-10-13,,actif,Marques,0.19
+CLI0105,Amélie Imbert,deniseaubert@example.org,+33 3 58 97 63 38,Premium,299,2024-02-18,,actif,Leblanc,0.25
+CLI0106,Michelle Pruvost,philippinevallee@example.org,01 74 01 07 74,Premium,299,2024-10-08,,actif,Lombard,0.03
+CLI0107,Agathe du Ollivier,blanchetjeanne@example.com,+33 5 62 69 77 79,Pro,199,2025-02-16,2025-07-27,annulé,Brun-sur-Grégoire,0.26
+CLI0108,Gabriel Jean,millethelene@example.com,+33 (0)4 75 91 93 62,Premium,299,2024-02-10,2024-05-04,annulé,Olivier-sur-Evrard,0.96
+CLI0109,Franck-Théophile Loiseau,gaudinmanon@example.net,+33 3 75 21 68 86,Basic,99,2025-02-17,2025-09-27,annulé,Blin,0.99
+CLI0110,Pierre Fernandes,victor68@example.net,0494943732,Premium,299,2025-01-18,,actif,Berthelot-la-Forêt,0.53
+CLI0111,Philippine Rodrigues,philippeschmitt@example.org,0443561243,Premium,299,2025-06-06,,actif,Fleury,0.33
+CLI0112,Joseph Prévost de Rocher,smaury@example.net,0254627863,Premium,299,2025-10-31,2026-08-22,expiré,Saint Danielle-sur-Mer,0.86
+CLI0113,Franck Hubert,arnaudeguyon@example.org,03 69 20 34 33,Premium,299,2025-11-15,,actif,Marchand,0.15
+CLI0114,Roland Cousin-Schneider,leleuelodie@example.com,02 34 93 24 03,Basic,99,2024-09-23,,actif,Sainte Astrid,0.08
+CLI0115,Louis Techer,ncourtois@example.org,0469159479,Basic,99,2024-09-06,,actif,Guyotboeuf,0.26
+CLI0116,Margaud Mallet-Chevallier,celinedelmas@example.com,05 33 07 66 37,Pro,199,2025-11-14,2026-04-23,annulé,Devaux,0.26
+CLI0117,William de la Lamy,remygallet@example.net,+33 5 67 18 51 89,Basic,99,2025-08-11,,actif,HenryBourg,0.66
+CLI0118,Luc Descamps,ogomes@example.net,04 20 19 81 04,Basic,99,2025-06-30,,actif,Noël-sur-Bernard,0.63
+CLI0119,Noël Fouquet,hugues71@example.org,04 13 82 12 61,Premium,299,2025-06-20,,actif,Sainte Claire,0.49
+CLI0120,Chantal Boulanger-Morel,ctraore@example.com,+33 2 76 81 23 63,Premium,299,2025-08-16,,actif,ColinBourg,0.61
+CLI0121,Sylvie Berger,margot15@example.org,0361068326,Basic,99,2024-03-24,,actif,Michaud,0.35
+CLI0122,Hugues Julien,andremartinez@example.net,+33 4 44 46 99 76,Pro,199,2025-02-08,,actif,Sainte Gilbert,0.69
+CLI0123,Sébastien Legendre,qteixeira@example.net,+33 5 18 62 35 92,Premium,299,2024-12-24,,actif,Lagarde,0.98
+CLI0124,Frédéric du Garcia,agatheblanc@example.net,0176365588,Pro,199,2025-03-26,,actif,Sainte Alphonse,0.28
+CLI0125,Auguste Lévy,andrerocher@example.com,+33 (0)2 52 77 41 14,Basic,99,2024-04-11,2024-05-11,annulé,Dufour,0.87
+CLI0126,Margot Chevallier,opichon@example.net,0411668214,Premium,299,2024-07-22,2024-09-22,expiré,Lévy-sur-Ferrand,0.72
+CLI0127,Margot Pineau,denisgerard@example.net,0594238359,Premium,299,2024-07-24,,actif,Dupuis,0.07
+CLI0128,Robert-Yves Guillet,lefebvremargaud@example.net,04 87 71 44 07,Premium,299,2025-05-14,2025-07-15,annulé,Grondinboeuf,0.93
+CLI0129,Jules Barbe,zmarin@example.net,0660939138,Premium,299,2025-11-11,,actif,Morvan,0.1
+CLI0130,Anaïs Regnier,odettecosta@example.net,+33 2 31 12 29 36,Premium,299,2025-10-02,2025-11-08,expiré,Sainte Dianenec,0.46
+CLI0131,Josette-Maryse Coulon,virginiebecker@example.net,+33 (0)3 24 75 93 20,Basic,99,2025-10-06,2026-07-29,annulé,Lefebvre,0.49
+CLI0132,Océane-Denise Gonzalez,thibault13@example.net,+33 3 76 31 46 34,Pro,199,2025-10-13,2026-09-05,annulé,Collet,0.02
+CLI0133,Céline Mercier,genevieve98@example.org,0246913999,Pro,199,2024-12-16,2025-02-18,annulé,Le Goff,0.21
+CLI0134,Nicolas Pires,isaac03@example.net,+33 7 46 70 07 37,Premium,299,2024-09-11,,actif,RichardBourg,0.95
+CLI0135,Claude Buisson-Blanchard,valentine02@example.net,06 30 60 77 55,Pro,199,2025-10-02,2025-12-27,annulé,Rolland,0.84
+CLI0136,Gilbert Bernier,emmanuelle36@example.net,0174030140,Premium,299,2025-09-07,2025-12-11,annulé,Bègue-sur-Devaux,0.15
+CLI0137,Michel Dos Santos,dguyon@example.com,04 79 21 22 71,Pro,199,2024-06-06,,actif,Pons,0.64
+CLI0138,Thomas Chauvin,elisabeth15@example.org,04 63 10 13 41,Pro,199,2025-05-07,,actif,Faure,0.8
+CLI0139,Geneviève Bouvet Le Traore,astridgarnier@example.com,03 61 37 97 43,Basic,99,2025-10-16,,actif,LangloisBourg,0.06
+CLI0140,Diane Marion,sophie97@example.org,+33 (0)3 88 94 89 12,Pro,199,2025-05-15,,actif,Guilletdan,0.75
+CLI0141,Lucie-Antoinette Lemaître,olivier47@example.com,+33 (0)3 76 63 69 74,Premium,299,2025-08-11,2026-02-02,annulé,Sainte Émilie,0.35
+CLI0142,Bertrand Normand,adelebrun@example.net,06 61 01 96 37,Premium,299,2025-04-30,2025-07-22,expiré,Saint Nicolasdan,0.25
+CLI0143,Bertrand Ribeiro,zoedos-santos@example.net,04 37 67 58 17,Premium,299,2025-08-19,2026-04-19,annulé,Gonzalez,0.38
+CLI0144,Étienne Lagarde-Gérard,carolinetorres@example.org,04 26 22 44 41,Basic,99,2025-06-29,,actif,Moulin-sur-Meyer,0.48
+CLI0145,Catherine Parent,guillotvincent@example.org,+33 4 95 20 38 76,Pro,199,2024-06-09,2025-03-06,annulé,Moreau-sur-Mer,0.51
+CLI0146,Thibaut Sanchez,marcel66@example.org,03 44 03 31 55,Basic,99,2025-06-07,,actif,Rolland,0.54
+CLI0147,Honoré Le Letellier,gbousquet@example.org,+33 (0)4 38 15 55 06,Premium,299,2024-05-24,2025-05-11,expiré,Gilbert,0.49
+CLI0148,Émile Duval,hroche@example.net,+33 (0)3 76 44 12 33,Pro,199,2024-10-20,,actif,Da Silva,0.72
+CLI0149,Pénélope de la Pottier,sreynaud@example.com,0532901552,Premium,299,2025-08-17,2025-12-10,expiré,Lefort,0.66
+CLI0150,Pierre Martel,isabelle96@example.net,02 55 39 18 67,Basic,99,2024-12-02,2025-05-01,annulé,Arnaud-sur-Couturier,0.56
