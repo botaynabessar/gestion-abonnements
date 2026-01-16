@@ -136,7 +136,7 @@ streamlit run app.py --server.port 8502
 # Auteur
 
 **[Ikram KANBOUCH / Bothayna BESSAR]**
-- Projet académique - [Nom de votre école/université]
+- Projet académique - [ENSET]
 - Date : Janvier 2026
 
 ---
@@ -162,5 +162,6 @@ Pour toute question ou suggestion :
 - GitHub : [@botaynabessar](https://github.com/botaynabessar)
 
 ---
+
 
 **Note** : Cette application est un projet académique et les données utilisées sont fictives.
